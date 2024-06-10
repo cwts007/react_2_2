@@ -1,0 +1,33 @@
+.navbar {
+    position: fixed;
+    top: 50px;
+    /* Ajusta esta altura si es necesario */
+    width: 100%;
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    z-index: 999;
+    /* Ajusta este valor si es necesario, debe ser menor que el z-index del header */
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s;
+}
+
+.navbar .active-link {
+    color: #ff6347;
+    /* Cambia a un color distintivo cuando el enlace está activo */
+}
