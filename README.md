@@ -1,3 +1,12 @@
+SE AGREGO UN COMPONNETE PARA HACER EL RUTEO COMO LO EXPLICARON EN EL DESAFIO ANTERIOR
+SE REALIZO UN MODAL PARA PODRR VER LAS FOTOS EN TAMAÑO REAL TANTO EN HOME COMO EN FAVORITOS
+EN FAVORITOS AL MODAL SE LE AGREGO UN BOTO DE ELIMINAR DE FAVORITOS
+
+SALUDOS
+
+Christopher Thompson
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
